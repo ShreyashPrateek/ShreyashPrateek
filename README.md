@@ -9,22 +9,6 @@
 
 ---
 
-# 🌐 Connect With Me 
-
-<p align="center">
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyash-prateek/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shreyashprateek01@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
@@ -79,6 +63,22 @@
 </p>
 
 ---
+
+---
+
+# 🌐 Connect With Me 
+
+<p align="center">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyash-prateek/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyashprateek01@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 <p align="center">
 
 ⭐ If you like my work, consider following me on GitHub!
