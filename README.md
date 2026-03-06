@@ -17,7 +17,11 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/ShreyashPrateek/ShreyashPrateek/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShreyashPrateek/ShreyashPrateek/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShreyashPrateek/ShreyashPrateek/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://github.com/ShreyashPrateek/ShreyashPrateek/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
