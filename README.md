@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | Java • Spring Boot • Laravel • Vue.js</h3>
 
 <p align="center">
-Passionate about building scalable applications, performant APIs, and exploring AI development.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Passionate+about+building+scalable+applications;Exploring+AI+development+and+high-performance+APIs"/>
 </p>
 
 ---
