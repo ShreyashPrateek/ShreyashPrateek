@@ -9,17 +9,7 @@ Passionate about building scalable applications, performant APIs, and exploring 
 
 ---
 
-# 💫 About Me
-
-💻 Full-Stack Developer passionate about building scalable web applications using **Java, Spring Boot, Laravel, Vue.js, and MySQL**.
-
-🏗️ Strong focus on **clean architecture and performant APIs**.
-
-🤖 Currently exploring **AI development with LangChain, Hugging Face, and OpenAI APIs.**
-
----
-
-# 🌐 Connect With Me
+# 🌐 Connect With Me 
 
 <p align="center">
 
@@ -55,6 +45,17 @@ Passionate about building scalable applications, performant APIs, and exploring 
 
 ---
 
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyashPrateek&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -82,23 +83,6 @@ Passionate about building scalable applications, performant APIs, and exploring 
 </p>
 
 ---
-
-# 🚀 Developer Focus
-
-✔ Backend Development  
-✔ API Design  
-✔ Distributed Systems  
-✔ Full-Stack Web Applications  
-✔ AI Integrations
-
----
-
-# ⚡ Fun Fact
-
-I enjoy building **developer tools, scalable APIs, and AI-powered applications**.
-
----
-
 <p align="center">
 
 ⭐ If you like my work, consider following me on GitHub!
