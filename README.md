@@ -60,11 +60,7 @@ Passionate about building scalable applications, performant APIs, and exploring 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyashPrateek&theme=tokyonight&hide_border=true&show_icons=true"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShreyashPrateek&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashPrateek&theme=tokyonight&hide_border=true&layout=compact"/>
+<img width="400" src="https://nirzak-streak-stats.vercel.app/?user=ShreyashPrateek&theme=tokyonight&hide_border=true"/>
 
 </p>
 
