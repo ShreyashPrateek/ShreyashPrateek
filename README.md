@@ -1,21 +1,77 @@
-# 💫 About Me:
-💻 Full-Stack Developer passionate about building scalable web applications using Java, Spring Boot, Laravel, Vue.js, and MySQL, with a strong focus on clean architecture and performant APIs.<br>🤖 Exploring AI development with LangChain, Hugging Face, and OpenAI APIs.
+<!-- PROFILE HEADER -->
 
+<h1 align="center">Hi 👋, I'm Shreyash Prateek</h1>
+<h3 align="center">Full-Stack Developer | Java • Spring Boot • Laravel • Vue.js</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyash-prateek/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashprateek01@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShreyashPrateek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShreyashPrateek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashPrateek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Passionate about building scalable applications, performant APIs, and exploring AI development.
+</p>
 
 ---
-## 🐍 Contribution Snake
 
-<div align="center">
+# 💫 About Me
+
+💻 Full-Stack Developer passionate about building scalable web applications using **Java, Spring Boot, Laravel, Vue.js, and MySQL**.
+
+🏗️ Strong focus on **clean architecture and performant APIs**.
+
+🤖 Currently exploring **AI development with LangChain, Hugging Face, and OpenAI APIs.**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyash-prateek/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyashprateek01@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,vue,js,html,css,php,python,aws,docker,mysql,git,github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyashPrateek&theme=tokyonight&hide_border=true&show_icons=true"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ShreyashPrateek&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashPrateek&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShreyashPrateek/ShreyashPrateek/blob/output/github-contribution-grid-snake-dark.svg">
@@ -23,5 +79,28 @@
   <img alt="github contribution snake animation" src="https://github.com/ShreyashPrateek/ShreyashPrateek/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+---
+
+# 🚀 Developer Focus
+
+✔ Backend Development  
+✔ API Design  
+✔ Distributed Systems  
+✔ Full-Stack Web Applications  
+✔ AI Integrations
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building **developer tools, scalable APIs, and AI-powered applications**.
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider following me on GitHub!
+
+</p>
