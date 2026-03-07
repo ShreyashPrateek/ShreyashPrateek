@@ -7,6 +7,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Passionate+about+building+scalable+applications;Exploring+AI+development+and+high-performance+APIs"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShreyashPrateek&style=flat-square"/>
+</p>
+
 ---
 
 # 💻 Tech Stack
