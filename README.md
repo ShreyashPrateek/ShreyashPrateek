@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2c5364&height=140&section=header&animation=fadeIn"/>
 <h1 align="center">Hi 👋, I'm Shreyash Prateek</h1>
 <h3 align="center">Full-Stack Developer | Java • Spring Boot • Laravel • Vue.js</h3>
 
@@ -97,3 +97,4 @@
 ⭐ If you like my work, consider following me on GitHub!
 
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2c5364&height=120&section=footer"/>
