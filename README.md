@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2c5364&height=140&section=header&animation=fadeIn"/>
 <h1 align="center">Hi 👋, I'm Shreyash Prateek</h1>
-<h3 align="center">Full-Stack Developer | Java • Spring Boot • Laravel • Vue.js</h3>
+<h3 align="center">Full-Stack Developer | Java • Spring Boot • Laravel • React.js</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Passionate+about+building+scalable+applications;Exploring+AI+development+and+high-performance+APIs"/>
