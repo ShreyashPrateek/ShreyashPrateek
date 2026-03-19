@@ -47,7 +47,7 @@
 
 <p align="center">
 
-<img width="400" src="https://nirzak-streak-stats.vercel.app/?user=ShreyashPrateek&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://nirzak-streak-stats.vercel.app/?user=ShreyashPrateek&theme=tokyonight&hide_border=true&v=2"/>
 
 </p>
 
