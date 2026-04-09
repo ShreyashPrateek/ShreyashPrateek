@@ -46,9 +46,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img width="400" src="https://nirzak-streak-stats.vercel.app/?user=ShreyashPrateek&theme=tokyonight&hide_border=true&v=2"/>
-
+  <img width="400" src="https://streak-stats.demolab.com/?user=ShreyashPrateek&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
